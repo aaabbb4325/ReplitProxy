@@ -5,20 +5,20 @@
    /* Background Variables */
    --background-image: url("/./assets/media/background/full-main.png"); /* Background Image */
    --backdrop-filter: blur(10px) brightness(80%); /* Nav Backdrop filter */
-   --background-nav: rgba(255, 255, 255, 0.02); /* Nav Background */
+   --background-nav: rgb(1, 141, 249, 0.02); /* Nav Background */
    --background-color: #222; /* Main Background Color */
-   --background-input: #4545459e; /* Input Field Background Color */
-   --background-column: #353535; /* Background for Apps Container */
-   --background-settings: #2a2a2a; /* Settings Card Background */
-   --background-buttons: #333; /* Button Background Color */
-   --tab-active-background: #444; /* Accent Color for Tabs */
-   --tab-inactive-background: ; /* Background Color for Tabs Not In Use */
+   --background-input: #3646789e; /* Input Field Background Color */
+   --background-column: #0f2f8f; /* Background for Apps Container */
+   --background-settings: #082359; /* Settings Card Background */
+   --background-buttons: #0e464e; /* Button Background Color */
+   --tab-active-background: #18658b; /* Accent Color for Tabs */
+   --tab-inactive-background: #12455e; /* Background Color for Tabs Not In Use */
    --slider-active-background: #4caf50; /* Active Slider Background Color */
    --slider-inactive-background: #ccc; /*  Slider Background Color */
    --nav-image: url("/./assets/media/favicon/main.png"); /* Nav Logo */
    /* Text Variables */
-   --text-primary: #fff; /* Primary Text Color */
-   --text-dark: #555; /* Dark Text Color for Error Page, Scrollbar, and Particles */
+   --text-primary: #3ecdea; /* Primary Text Color */
+   --text-dark: #059fff; /* Dark Text Color for Error Page, Scrollbar, and Particles */
    --text-placeholder: #aaa; /* Placeholder Text Color */
    /* Other Variables */
    --save-button: #4caf50; /* Save Button, Typically Green */
